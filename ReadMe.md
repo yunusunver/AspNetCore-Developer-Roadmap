@@ -92,6 +92,7 @@ If you like or are using this project to learn or start your solution, please gi
       - [Sentry.io](http://sentry.io)
       - [Loggly.com](https://loggly.com)
       - [Elmah.io](http://elmah.io)
+      - [log4net](https://github.com/huorswords/Microsoft.Extensions.Logging.Log4Net.AspNetCore)
 
 7. Template Engines
    1. [Razor](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-2.2)
